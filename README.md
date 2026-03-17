@@ -83,8 +83,8 @@ This project is open-source and available under the MIT License.
 
 ## 👩‍💻 Author
 
-**Pooja**
-(Chartered Accountant | Aspiring Tech Enthusiast)
+**Aditya**
+(Aspiring Tech Enthusiast)
 
 ---
 
